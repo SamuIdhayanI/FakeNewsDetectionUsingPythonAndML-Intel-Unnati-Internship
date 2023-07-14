@@ -1,4 +1,4 @@
-# intelrepo
+# Techies_Karunya_FakeNewsDetectionUsingPythonAndML
 -------------------------------------------------------------------------------------------------------------------------------------------
 **Fake News Detection using Python and Machine Learning:**
 
