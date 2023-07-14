@@ -1,12 +1,12 @@
 # intelrepo
 -------------------------------------------------------------------------------------------------------------------------------------------
-Fake News Detection using Python and Machine Learning:
+## Fake News Detection using Python and Machine Learning:
 
 Intel Unnati Industrial Training – Summer 2023
 
-SAMU IDHAYAN I
-JEEVAN KURUVILLA SUNIL
-JERUSHA MIRACLIN DULCIE B
+## SAMU IDHAYAN I
+## JEEVAN KURUVILLA SUNIL
+## JERUSHA MIRACLIN DULCIE B
 
 Karunya Institute of Technology and Sciences
 -------------------------------------------------------------------------------------------------------------------------------------------
