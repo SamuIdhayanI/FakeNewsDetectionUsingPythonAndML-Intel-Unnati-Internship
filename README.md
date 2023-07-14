@@ -8,8 +8,6 @@ Intel Unnati Industrial Training – Summer 2023
    JEEVAN KURUVILLA SUNIL   ||
    JERUSHA MIRACLIN DULCIE B_**
  
-
-Karunya Institute of Technology and Sciences
 -------------------------------------------------------------------------------------------------------------------------------------------
 Fake news is an upcoming yet huge problem in today’s digital age where anyone can share anything irrespective of its truthfulness. Information is available freely yet it comes with a very expensive cost that is fake information. In order to combat this, we have chosen certain machine learning models and algorithms to detect fake news that clouds our everyday feed. The objective of this project is to develop a reliable and accurate model that can classify news articles as either genuine or fake.
 -------------------------------------------------------------------------------------------------------------------------------------------
