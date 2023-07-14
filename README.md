@@ -3,7 +3,10 @@
 **Fake News Detection using Python and Machine Learning:**
 
 Intel Unnati Industrial Training – Summer 2023
- 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Submitted by:
+
  **_SAMU IDHAYAN I_**
    
  **_JEEVAN KURUVILLA SUNIL_**
