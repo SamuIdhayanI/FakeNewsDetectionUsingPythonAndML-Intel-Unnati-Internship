@@ -4,9 +4,9 @@
 
 Intel Unnati Industrial Training – Summer 2023
  
- **__SAMU IDHAYAN I ||
- JEEVAN KURUVILLA SUNIL ||
- JERUSHA MIRACLIN DULCIE B_**
+ **_SAMU IDHAYAN I   ||
+   JEEVAN KURUVILLA SUNIL   ||
+   JERUSHA MIRACLIN DULCIE B_**
  
 
 Karunya Institute of Technology and Sciences
