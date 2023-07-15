@@ -19,6 +19,7 @@ Fake news is an upcoming yet huge problem in today’s digital age where anyone 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 This repository consists of the following folders:
+
 **1. ProgramFiles:**
    
      containing:
@@ -39,7 +40,7 @@ This repository consists of the following folders:
    
         - Report_submitted_to_college.pdf
 
-  Link to download dataset - https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
+  **Link to download dataset** - https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 
 The project generates accuracy scores, confusion matrices, and classification reports for each model. Here are the performance results for the models: Logistic Regression, Random Forest and SVC
 
