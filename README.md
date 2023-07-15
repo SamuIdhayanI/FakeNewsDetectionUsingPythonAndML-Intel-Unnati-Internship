@@ -7,11 +7,11 @@ Intel Unnati Industrial Training – Summer 2023
 -------------------------------------------------------------------------------------------------------------------------------------------
 Submitted by:
   
-  **_SAMU IDHAYAN I_**
+  **_SAMU IDHAYAN I_** (https://github.com/URK21CS2006)
   
-  **_JEEVAN KURUVILLA SUNIL_**
+  **_JEEVAN KURUVILLA SUNIL_** (https://github.com/URK21CS2022Jeevan)
   
-  **_JERUSHA MIRACLIN DULCIE B_**
+  **_JERUSHA MIRACLIN DULCIE B_** (https://github.com/URK21CS2032Jerusha)
  
 -------------------------------------------------------------------------------------------------------------------------------------------
 
