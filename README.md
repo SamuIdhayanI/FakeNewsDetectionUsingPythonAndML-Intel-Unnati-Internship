@@ -19,7 +19,7 @@ Fake news is an upcoming yet huge problem in today’s digital age where anyone 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 This repository consists of the following folders:
-1. ProgramFiles:
+**1. ProgramFiles:**
    
      containing:
    
@@ -29,7 +29,7 @@ This repository consists of the following folders:
    
         - ML3_SVC_ML_model.ipynb
    
-3. Documents:
+**2. Documents:**
    
      containing:
    
