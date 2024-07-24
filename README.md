@@ -1,18 +1,9 @@
-# Techies_Karunya_FakeNewsDetectionUsingPythonAndML
+# Fake News Detection Using Python And ML
 -------------------------------------------------------------------------------------------------------------------------------------------
 **Fake News Detection using Python and Machine Learning:**
 
 Intel Unnati Industrial Training – Summer 2023
 
--------------------------------------------------------------------------------------------------------------------------------------------
-Submitted by:
-  
-  **_SAMU IDHAYAN I_** (https://github.com/URK21CS2006)
-  
-  **_JEEVAN KURUVILLA SUNIL_** (https://github.com/URK21CS2022Jeevan)
-  
-  **_JERUSHA MIRACLIN DULCIE B_** (https://github.com/URK21CS2032Jerusha)
- 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Fake news is an upcoming yet huge problem in today’s digital age where anyone can share anything irrespective of its truthfulness. Information is available freely yet it comes with a very expensive cost that is fake information. In order to combat this, we have chosen certain machine learning models and algorithms to detect fake news that clouds our everyday feed. The objective of this project is to develop a reliable and accurate model that can classify news articles as either genuine or fake.
